@@ -1,4 +1,6 @@
 # Music_Recommendation_System
 
-Username = user
-Password = user
+## User Credentials
+
+- **Username:** user
+- **Password:** user
